@@ -1,0 +1,7 @@
+{
+  "slug": "prova-escola-ti",
+  "EXAM_DIR": "exams/2026/track-02-debugging",
+  "PORTA_PUBLICADA": 9102,
+  "BANCO": "prova_55",
+  "ORIGEM_FRONTEND": "http://localhost:3000"
+}
