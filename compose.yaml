@@ -16,7 +16,7 @@ services:
       context: ./backend
       dockerfile: Containerfile
     ports:
-      - "8080:8080"
+      - "9102:8080"
     depends_on:
       db:
         condition: service_healthy
