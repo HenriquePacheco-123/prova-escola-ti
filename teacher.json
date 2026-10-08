@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "repo": "prova-escola-ti",
+  "repo_url": "https://github.com/HenriquePacheco-123/prova-escola-ti",
+  "exam_dir": "exams/2026/track-02-debugging",
+  "track": "track-02-debugging",
+  "issue": 1,
+  "issue_url": "https://github.com/HenriquePacheco-123/prova-escola-ti/issues/1",
+  "gerado_em": "2026-10-08T00:20:43+00:00",
+  "fechada_em": "2026-10-08T00:20:21Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "HenriquePacheco-123",
+    "ra": "23293915",
+    "nome": "Henrique Pacheco Alves"
+  },
+  "variante": {
+    "slug": "prova-escola-ti",
+    "EXAM_DIR": "exams/2026/track-02-debugging",
+    "PORTA_PUBLICADA": 9102,
+    "BANCO": "prova_55",
+    "ORIGEM_FRONTEND": "http://localhost:3000"
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-07T22:30:14Z",
+    "ultimo_push": "2026-10-07T20:47:39-03:00"
+  },
+  "commits": {
+    "total": 15,
+    "autores": [
+      "Henrique Pacheco Alves"
+    ],
+    "primeiro": "2026-10-07T19:26:12-03:00",
+    "ultimo": "2026-10-07T20:47:39-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 100
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 0
+  }
+}
